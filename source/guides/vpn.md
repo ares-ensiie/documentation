@@ -28,30 +28,30 @@ Pour ajouter l'intégration de network manager à Network Manager, votre gestion
 Tout d'abord, quelque soit la technique, il est nécessaire de récupérer quelques [fichiers](https://vpn.ares-ensiie.eu).
 
 <div style="text-align:center">
-	<img src="vpn/vpn.ares-ensiie.eu.png" width="60%"/>
+	<img src="../assets/images/vpn/vpn.ares-ensiie.eu.png" width="60%"/>
 </div>
 ###Sous Linux
 ####Graphiquement (GNOME/Unity)
 
 #####Ajout d'un VPN : 
 <div style="text-align:center">
-	<img src="vpn-ubuntu_1.png" width="60%" >
-	<img src="vpn/ubuntu_2.png" width="60%" style="text-align-center"/>
+	<img src="../assets/images/vpn/ubuntu_1.png" width="60%" >
+	<img src="../assets/images/vpn/ubuntu_2.png" width="60%" style="text-align-center"/>
 </div>
 #####Type de VPN : 
 <div style="text-align:center">
-	<img src="vpn/ubuntu_3.png" width="60%" style="text-align-center"/>
+	<img src="../assets/images/vpn/ubuntu_3.png" width="60%" style="text-align-center"/>
 </div>
 #####Configuration :
 <div style="text-align:center">
-	<img src="vpn/ubuntu_4.png" width="60%" style="text-align-center"/>
-	<img src="vpn/ubuntu_5.png" width="60%" style="text-align-center"/>
-	<img src="vpn/ubuntu_6.png" width="60%" style="text-align-center"/>
+	<img src="../assets/images/vpn/ubuntu_4.png" width="60%" style="text-align-center"/>
+	<img src="../assets/images/vpn/ubuntu_5.png" width="60%" style="text-align-center"/>
+	<img src="../assets/images/vpn/ubuntu_6.png" width="60%" style="text-align-center"/>
 </div>
 #####Connexion : 
 <div style="text-align:center">
-	<img src="./vpn/ubuntu_7.png" width="60%"/>
-	<img src="./vpn/ubuntu_8.png" width="60%"/>
+	<img src="../assets/images/vpn/ubuntu_7.png" width="60%"/>
+	<img src="../assets/images/vpn/ubuntu_8.png" width="60%"/>
 </div>
 ####En ligne de commande (Universel)
 
@@ -96,14 +96,14 @@ Cependant ce n'est pas forcément suffisant, car Windows c'est tout pourri =D
 
 Lancez un terminal en tant qu'administrateur:
 <div style="text-align:center">
-	<img src="vpn/windows_1.png" width="60%"/>
+	<img src="../assets/images/vpn/windows_1.png" width="60%"/>
 </div>
 Lancez la commande:
  
 	route print 
 vous pourrez observer ça :
 <div style="text-align:center">
-	<img src="vpn/windows_2.png" width="60%"/>
+	<img src="../assets/images/vpn/windows_2.png" width="60%"/>
 </div>
 Repérez l'identifiant de votre interface, pour ma part:
 

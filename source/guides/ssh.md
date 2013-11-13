@@ -24,5 +24,5 @@ Nos serveurs sont configurés pour fonctionner en UTF-8. PuTTY par défaut n'uti
 
 → Lorsque vous lancez PuTTy rendez vous dans la partie `translation`, puis modifiez la valeur pour utiliser l'UTF-8 comme ci-dessous:
 <div style="text-align:center">
-	<img src="./ssh/putty.png" width="50%"/>
+	<img src="https://www.dropbox.com/s/mk4pc3y3kafq9py/putty.png" width="50%"/>
 </div>
