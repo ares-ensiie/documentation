@@ -6,7 +6,7 @@
 - [FTP] (/guides/ftp) : vos données sur les serveurs d'Ares en quelques clics
 - [IRC] (/guides/irc) : communiquer en toute simplicité
 - [Gitlab] (/guides/gitlab) : travailler en groupe 
-- [Mailing-lists] (/guides/mailing-lists) : communiquer seulement avec certaines personnes  
+- Mailing-lists : communiquer seulement avec certaines personnes  
 	- [Généralités] (/guides/mailing-lists/generalites)
 	- [Administration] (/guides/mailing-lists/administration)
 	- [Utilisation] (/guides/mailing-lists/utilisation)
