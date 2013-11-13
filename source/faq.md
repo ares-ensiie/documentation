@@ -8,7 +8,7 @@ ARES sont les administrateurs réseaux de l'ENSIIE Strasbourg. Une association f
 ### Qui sont ses membres actifs?
 - Léo Unbekandt
 -  Paul Chobert
--  Luke Berthot
+-  Luke Bertot
 -  Philippe Gaultier
 -  Maxime Heckel
 -  Hao Pan
