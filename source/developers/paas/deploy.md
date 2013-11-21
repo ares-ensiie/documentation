@@ -21,7 +21,7 @@ Tout d'abord, il est nécessaire que votre application soit dans un répository 
 	
 **Attention**
 
-Certaines technologies, comme Node.js par exemple, nécessite un fichier additionnel au projet afin de garantir le bon fonctionnement de votre application lors du déploiement : le Procfile.
+Certaines technologies, comme Node.js par exemple, nécessitent un fichier additionnel au projet afin de garantir le bon fonctionnement de votre application lors du déploiement : le Procfile.
 Un Procfile est un petit fichier vous permettant de déclarer la commande à éxécuter pour lancer votre application lors du déploiement. Si votre application nécessite un Procfile, vous pouvez les trouver facilement sur internet ou plus précisement sur la documentation de Heroku.
 
 
