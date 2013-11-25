@@ -40,4 +40,9 @@ Vous n'avez beson que d'une seule commande :
 	
 Votre application va être pushée sur le serveur, reconnu et installée par le PaaS. A la fin du déploiement, vous pourrez observer une URL de la forme [NOM_DE_VOTRE_APP.ares-paas.eu](), il s'agit tout simplement du lien vers lequel vous pouvez accéder à votre application.
 
-Vous venez de déployer votre première application sur ares-paas.eu ! 
+Vous venez de déployer votre première application sur ares-paas.eu !
+
+##Exemples
+- Une application en [Python](http://www.python.org/), avec le micro-framework [Flask](http://flask.pocoo.org/): [http://python-sample.ares-paas.eu/](http://python-sample.ares-paas./)
+- Une application en [Node](http://nodejs.org/), avec le framework [express](http://expressjs.com/): [http://express-sample.ares-paas.eu/](http://express-sample.ares-paas.eu/)
+- Une application en [Ruby](https://www.ruby-lang.org), avec le framework [Ruby on Rails](http://rubyonrails.org/): [http://rails-sample.ares-paas.eu/](http://rails-sample.ares-paas.eu/) [NOT WORKING]
