@@ -47,5 +47,7 @@ Vous venez de déployer votre première application sur ares-paas.eu !
 - Une application en [Node](http://nodejs.org/), avec le framework [express](http://expressjs.com/): [http://express-sample.ares-paas.eu/](http://express-sample.ares-paas.eu/)
 - Une application en [Ruby](https://www.ruby-lang.org), avec le framework [Sinatra](http://www.sinatrarb.com/): [http://ruby-sample.ares-paas.eu/](http://ruby-sample.ares-paas.eu/)
 
-
+##Problèmes connus
+- Les application Ruby on Rails ne fonctionnent pas pour le moment (problème de base de données)
+- Les applications Symfony sont déployées correctement mais rien ne s'affiche
 
