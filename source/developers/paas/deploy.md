@@ -43,7 +43,7 @@ Votre application va être pushée sur le serveur, reconnu et installée par le 
 Vous venez de déployer votre première application sur ares-paas.eu !
 
 ##Exemples
-- Une application en [Python](http://www.python.org/), avec le micro-framework [Flask](http://flask.pocoo.org/): [http://python-sample.ares-paas.eu/](http://python-sample.ares-paas./)
+- Une application en [Python](http://www.python.org/), avec le micro-framework [Flask](http://flask.pocoo.org/): [http://python-sample.ares-paas.eu/](http://python-sample.ares-paas.eu/)
 - Une application en [Node](http://nodejs.org/), avec le framework [express](http://expressjs.com/): [http://express-sample.ares-paas.eu/](http://express-sample.ares-paas.eu/)
 - Une application en [Ruby](https://www.ruby-lang.org), avec le framework [Sinatra](http://www.sinatrarb.com/): [http://ruby-sample.ares-paas.eu/](http://ruby-sample.ares-paas.eu/)
 
