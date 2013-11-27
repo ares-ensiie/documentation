@@ -6,11 +6,12 @@
     %meta(name="viewport" content="width=device-width, initial-scale=1")
     = stylesheet_link_tag 'documentation'
     = javascript_include_tag 'documentation'
+    <link rel="icon" type="image/png" href="https://s3-eu-west-1.amazonaws.com/ares-favicon/favicon.png">
 
   %body{class: page_classes}
     %header.notice
       :markdown
-        En cas de problème avec la documentation, veuillez [ouvrir une issue](https://github.com/ares-ensiie/documentation/issues/new) ou nous contacter sur [#ares](irc://irc.iiens.net/%23ares) ou [@ares](ares@ares-ensiie.eu)
+        En cas de problème avec la documentation, veuillez [ouvrir une issue](https://github.com/ares-ensiie/documentation/issues/new) ou nous contacter sur [#ares](irc://irc.iiens.net/%23ares) ou <ares@ares-ensiie.eu>
     %article
       = preserve do
         = yield
