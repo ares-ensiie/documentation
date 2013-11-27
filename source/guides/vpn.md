@@ -28,7 +28,7 @@ Pour ajouter l'intégration de network manager à Network Manager, votre gestion
 Tout d'abord, quelque soit la technique, il est nécessaire de récupérer quelques [fichiers](https://vpn.ares-ensiie.eu).
 
 <div style="text-align:center">
-	<img src="../assets/images/vpn/vpn.ares-ensiie.eu.png" width="60%"/>
+	<img src="https://s3-eu-west-1.amazonaws.com/ares-documentation/putty.png" width="60%"/>
 </div>
 ###Sous Linux
 ####Graphiquement (GNOME/Unity)
