@@ -11,6 +11,7 @@
 
 - [Users & Promotions](/developers/api/v1)
 - [Authentication](/developers/api/v1/authentication)
+- [Exemple](http://oauth-demo.iiens.eu/)
 
 ## PaaS
 
