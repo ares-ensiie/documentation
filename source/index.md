@@ -22,3 +22,4 @@
 - [Les services d'ARES](/admins/services)
 - [Private Iaas - Openstack](/admins/openstack)
 - [L'outil knife-openstack](/admins/chef/knife-openstack)
+- [Changer les règles du dhcp](/admins/dhcp)
