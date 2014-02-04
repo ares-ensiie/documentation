@@ -21,6 +21,10 @@ Publiques
 > Ce serveur est celui utilisé pour proposer aux utilisateur un accès
 > à leurs données à l'URL `http://ares-ensiie.eu/~username`
 
+* [Hébergement](/admins/services/hebergement)
+
+> Pour héberger des sites web (non PaaS) sur nos serveurs
+
 ### Outils
 
 * [Gitlab](/admins/services/gitlab) - <https://git.ares-ensiie.eu> - Hébergement de projets
