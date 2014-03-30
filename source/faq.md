@@ -31,6 +31,7 @@ ARES sont les administrateurs réseaux de l'ENSIIE Strasbourg. Une association f
 - [Page d'accueil](https://ares-ensiie.eu/)
 - [Documentation](http://doc.ares-ensiie.eu/)
 - [Mailing lists](http://listes.ares-ensiie.eu/wws)
+- [Statut des services](http://status.ares-ensiie.eu) (temps réel)
 - Mumble:
 	- hôte : `ares-ensiie.eu`
 	- port : par défaut
