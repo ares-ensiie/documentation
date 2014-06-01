@@ -10,7 +10,8 @@
 ### API V1
 
 - [Users & Promotions](/developers/api/v1)
-- [Authentication](/developers/api/v1/authentication)
+- [Authentification](/developers/api/v1/authentication)
+- [Intégrer Oauth à son application web](/developers/api/v1/setup)
 - [Exemple](http://oauth-demo.iiens.eu/)
 
 ## PaaS
